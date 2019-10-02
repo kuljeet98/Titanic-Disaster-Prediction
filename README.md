@@ -1,5 +1,5 @@
 # Titanic-Disaster-
-It is a Kaggle competition Datadet which is used to make the prediction which kind of users will alive.
+<br>It is a Kaggle competition Datadet which is used to make the prediction which kind of users will alive.<br>
 It predicts the type of genders will be more surviving in the titanic disaster management that is whether it is a Male or a Female.
 It consists of three csv files.
 a) Train.csv - It contains the training data on which we need to implement our model and then we need to check the accuracy on it.
